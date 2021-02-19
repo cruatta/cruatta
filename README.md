@@ -1,6 +1,6 @@
 
 ### Hi, I'm [Cameron](https://c.ruatta.com).
-⚡ I don't personally Github very much, but I do use [Gitlab](https://gitlab.com/cruatta)
+⚡ I don't personally use Github very much, but I do use [Gitlab](https://gitlab.com/cruatta)
 
 The work I do here is usually contributing to other Github repositories.
 
