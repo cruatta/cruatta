@@ -4,7 +4,7 @@
 
 The work I do here is usually contributing to other Github repositories.
 
-:beers:
+<a href=javascript:alert(1) />
 
 <!--
 **cruatta/cruatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
