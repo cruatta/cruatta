@@ -3,8 +3,8 @@
 ⚡ I don't personally use Github very much, but I do use [Gitlab](https://gitlab.com/cruatta)
 
 The work I do here is usually contributing to other Github repositories.
-
-<a href=javascript:alert(1) />
+<img src="test.svg" alt="Rectangle" height="42" width="42">
+<a href=data:alert(1)>test</a>
 
 <!--
 **cruatta/cruatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
