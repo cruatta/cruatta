@@ -1,7 +1,7 @@
 
 ### Hi, I'm [Cameron](https://c.ruatta.com) :wave:
 
-I'm a 🎱 Lead Software Engineer @ Dave.com focused on Security / Occasional digital artist
+I'm a 🎱 Lead Software Engineer @ Dave.com focused on Security and occasional digital artist
 
 ⚡ I don't personally use Github very much, but I do use [Gitlab](https://gitlab.com/cruatta)
 
