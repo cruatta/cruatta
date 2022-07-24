@@ -1,5 +1,8 @@
 
 ### Hi, I'm [Cameron](https://c.ruatta.com) :wave:
+
+I'm a 🎱 Lead Software Engineer @ Dave.com / Opportunistic Hacker / Occasional digital artist
+
 ⚡ I don't personally use Github very much, but I do use [Gitlab](https://gitlab.com/cruatta)
 
 <img src="test.svg" alt="Rectangle" height="8" width="8"> <img src="test.svg" alt="Rectangle" height="16" width="16"> <img src="test.svg" alt="Rectangle" height="32" width="32"> 
