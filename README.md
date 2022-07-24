@@ -2,9 +2,10 @@
 ### Hi, I'm [Cameron](https://c.ruatta.com) :wave:
 ⚡ I don't personally use Github very much, but I do use [Gitlab](https://gitlab.com/cruatta)
 
-The work I do here is usually contributing to other Github repositories.
+<img src="test.svg" alt="Rectangle" height="8" width="8"> <img src="test.svg" alt="Rectangle" height="16" width="16"> <img src="test.svg" alt="Rectangle" height="32" width="32"> 
 
-<img src="test.svg" alt="Rectangle" height="42" width="42">
+
+The work I do here is usually contributing to other Github repositories.
 
 You'll find my contact information, along with my [PGP key](https://c.ruatta.com/cameron-ruatta.asc), on my website.
 
