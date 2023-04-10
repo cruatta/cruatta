@@ -3,7 +3,7 @@
 
 🐻 My resume is on my personal website: https://c.ruatta.com/
 
-⚡ I don't use Github for personal projects. I use [Gitlab](https://gitlab.com/cruatta)
+⚡ I don't use Github for personal projects. I use [Gitlab](https://gitlab.com/cruatta).
 
 🎩 The work I do here is usually contributing to other Github repositories.
 
