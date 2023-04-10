@@ -1,5 +1,5 @@
 
-### Hi, I'm [Cameron](https://c.ruatta.com) :wave:
+### Hi, I'm Cameron :wave:
 
 🐻 My resume is on my personal website: https://c.ruatta.com/
 
