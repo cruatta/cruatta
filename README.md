@@ -1,16 +1,13 @@
 
 ### Hi, I'm [Cameron](https://c.ruatta.com) :wave:
 
-I'm a 🎱 Lead Software Engineer @ Dave.com focused on Security. 
+🐻 I'm a Lead Software Engineer @ Dave.com focused on Security. 
 
-⚡ I don't personally use Github very much, but I do use [Gitlab](https://gitlab.com/cruatta)
+⚡ I don't use Github for personal projects. I use [Gitlab](https://gitlab.com/cruatta)
 
-<img src="test.svg" alt="Rectangle" height="8" width="8"> <img src="test.svg" alt="Rectangle" height="16" width="16"> <img src="test.svg" alt="Rectangle" height="32" width="32"> 
+🎩 The work I do here is usually contributing to other Github repositories.
 
-
-The work I do here is usually contributing to other Github repositories.
-
-You'll find my contact information, along with my [PGP key](https://c.ruatta.com/cameron-ruatta.asc), on my website.
+📧 You'll find my contact information, along with my [PGP key](https://c.ruatta.com/cameron-ruatta.asc), on my website.
 
 <!--
 **cruatta/cruatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
