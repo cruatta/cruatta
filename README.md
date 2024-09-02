@@ -3,9 +3,11 @@
 
 🐻 My resume is on my personal website: https://c.ruatta.com/
 
-⚡ I don't use Github for personal projects. I use [Gitlab](https://gitlab.com/cruatta).
+🎩 I am a Tech Lead, Security Engineer, and Software Engineer.
 
-🎩 The work I do here is usually contributing to other Github repositories.
+🖥️ My current Github profile for work is [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
+
+⚡ I also use [Gitlab](https://gitlab.com/cruatta).
 
 📧 You'll find my contact information, along with my [PGP key](https://c.ruatta.com/cameron-ruatta.asc), on my website.
 
