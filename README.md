@@ -1,7 +1,7 @@
 
 ### Hi, I'm Cameron :wave:
 
-🐻 My resume is on my personal website: https://c.ruatta.com/
+🐻 My personal website is [here](https://c.ruatta.com/).
 
 🎩 I am a Tech Lead, Security Engineer, and Software Engineer.
 
