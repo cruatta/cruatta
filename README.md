@@ -1,13 +1,13 @@
 
 ### Hi, I'm Cameron :wave:
 
-🐻 My personal website is [here](https://c.ruatta.com/).
+🎩 Professionally, I'm a Security Engineer. 
 
-🎩 I am a Tech Lead, Security Engineer, and Software Engineer.
+🐻 I currently work at Dave via [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
 
-🖥️ My current Github profile for work is [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
+💠 I have a background in Software Engineering and was a professional Software Engineer before diving into Product Security. 
 
-📧 You'll find my contact information, along with my [PGP key](https://c.ruatta.com/cameron-ruatta.asc), on my website.
+🐦 For more information on my career, see my [Linkedin](https://www.linkedin.com/in/cruatta/).
 
 <!--
 **cruatta/cruatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
