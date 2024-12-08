@@ -7,7 +7,7 @@
 
 💠 I have a background in Software Engineering and was a professional Software Engineer before diving into Product Security. 
 
-🐦 For more information on my career, see my [Linkedin](https://www.linkedin.com/in/cruatta/).
+🐦 For more information on my career, or to reach out to me, send me a message on [Linkedin](https://www.linkedin.com/in/cruatta/).
 
 <!--
 **cruatta/cruatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
