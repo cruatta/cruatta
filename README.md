@@ -3,7 +3,7 @@
 
 🎩 Professionally, I'm a Security Engineer. 
 
-🐻 I currently work at Dave via [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
+🐻 I currently work at Dave: [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
 
 💠 I have a background in Software Engineering and was a professional Software Engineer before diving into Product Security. 
 
