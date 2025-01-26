@@ -1,9 +1,9 @@
 
 ### Hi, I'm Cameron :wave:
 
-🎩 Professionally, I'm a Security Engineer. 
+🎩 Security Engineer and Software Engineer
 
-🐻 I currently work at Dave: [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
+🐻 I work at Dave as the Tech Lead for the Product Security team: [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
 
 💠 I have a background in Software Engineering and was a professional Software Engineer before diving into Product Security. 
 
