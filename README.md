@@ -5,7 +5,7 @@
 
 🐻 I work at Dave as the Tech Lead for the Product Security team: [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
 
-💠 I have a background in Software Engineering and was a professional Software Engineer before diving into Product Security. 
+📘 Previously, I worked at Credit Karma as a Security Software Engineer
 
 🐦 For more information on my career, or to reach out to me, send me a message on [Linkedin](https://www.linkedin.com/in/cruatta/).
 
