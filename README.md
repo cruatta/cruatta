@@ -1,11 +1,11 @@
 
 ### Hi, I'm Cameron :wave:
 
-🎩 Security Engineer and Software Engineer
+🎩 Security Engineer and Software Engineer based in Los Angeles, CA
 
-🐻 I work at Dave as the Tech Lead for the Product Security team: [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
+🐻 I work at [Dave](https://dave.com) as the Tech Lead for the Product Security team: [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
 
-📘 Previously, I worked at Credit Karma as a Security Software Engineer
+📘 Previously, I worked at [Credit Karma](https://creditkarma.com) as a Security Software Engineer, where I was an early employee.
 
 🐦 For more information on my career, or to reach out to me, send me a message on [Linkedin](https://www.linkedin.com/in/cruatta/).
 
