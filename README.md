@@ -3,11 +3,12 @@
 
 🎩 Security Engineer and Software Engineer based in Los Angeles, CA
 
-🐻 I work at [Dave](https://dave.com) as the Tech Lead for the Product Security team: [@cameron-ruatta-dave](https://github.com/cameron-ruatta-dave).
+⚒️ I develop personal projects on this Github account
 
-📘 Previously, I worked at [Credit Karma](https://creditkarma.com) as a Security Software Engineer, where I was an early employee.
+🐻 My professional Github account is [cameron-ruatta-dave](https://github.com/cameron-ruatta-dave)
 
-🐦 For more information on my career, or to reach out to me, send me a message on [Linkedin](https://www.linkedin.com/in/cruatta/).
+🕸️ You can find out more about me on https://c.ruatta.com/
+
 
 <!--
 **cruatta/cruatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
