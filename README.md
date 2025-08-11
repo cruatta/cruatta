@@ -1,7 +1,7 @@
 
 ### Hi, I'm Cameron :wave:
 
-🎩 Security Engineer and Software Engineer based in Los Angeles, CA
+🎩 Security and Software Engineer based in Los Angeles, CA
 
 ⚒️ I develop personal projects on this Github account
 
