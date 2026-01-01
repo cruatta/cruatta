@@ -1,9 +1,9 @@
 
 ### Hi, I'm Cameron :wave:
 
-🎩 Software and Security Engineer based in Southern California
+🎩 Security & Software Engineer based in Southern California
 
-⚒️ I develop personal projects on this Github account
+⚒️ I develop personal projects on [Codeberg](https://codeberg.org/cruatta)
 
 🐻 My professional Github account is [cameron-ruatta-dave](https://github.com/cameron-ruatta-dave)
 
